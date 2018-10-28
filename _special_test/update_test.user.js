@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name     _Update on name change test
+// @name     _Update on name change test, name change
 // @match    http://mailfocus.net/switch_board_x.htm
 // @version  0.2
 // @grant    none
